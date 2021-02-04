@@ -4,3 +4,5 @@
 #In problem 3 you can find a problem asking for a specified slicing.
 
 #In problem 4 we have a problem with a loop involving odd integers.
+
+#In problem 5 we shoud slice a file and print just the even-numbers from it.
