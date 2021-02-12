@@ -29,7 +29,7 @@
 # Example 2 - The Big Dinner
      ## print list
      ## work with title() method
-     ## remove a item bye his value
+     ## remove a item by his value
      ## changing a item by his index
      ## the differences between insert() and append() method
      ## using a pop method to exclud and use this value excluded.
