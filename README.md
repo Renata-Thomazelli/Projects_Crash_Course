@@ -5,8 +5,19 @@
 # ProjectsinPython
 #Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
 
-#In problem 3 you can find a problem asking for a specified slicing.
+# In problem 3 
+    #you can find a problem asking for a specified slicing.
 
-#In problem 4 we have a problem with a loop involving odd integers.
+# In problem 4 
+    #we have a problem with a loop involving odd integers.
 
-#In problem 5 we shoud slice a file and print just the even-numbers from it.
+# In problem 5 
+    #we shoud slice a file and print just the even-numbers from it.
+
+# Example 1 - Sorting a List
+    #Permanently with the sort () Method
+    #sorted list with tuplas
+    #print list as sorted but not permanantly
+    #reverse sort with reverse=True
+    #ignoring Capital letter with casefold
+    lambda function
