@@ -5,6 +5,9 @@
 # ProjectsinPython
 #Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
 
+
+# INTRODUCTORY EXERCISES FROM ROSALIND SITE 
+
 # In problem 3 
     #The Challenge was to return The slice of a string from indices a through b and c through d (with space in between), inclusively. In other words, we should include elements s[b] and s[d] in our slice.
 
@@ -17,8 +20,10 @@
     #fir this challenge you can se  
         #a loop or you can also you can 
             #import sys and import intertools 
+            
+# PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
 
-# Example 1 - Sorting a List
+   # Example 1 - Sorting a List
     #Permanently with the sort () Method
     #sorted list with tuplas
     #print list as sorted but not permanantly
@@ -26,10 +31,19 @@
     #ignoring Capital letter with casefold
     #lambda function
     
-# Example 2 - The Big Dinner
+  # Example 2 - The Big Dinner
      ## print list
      ## work with title() method
      ## remove a item by its value
      ## changing a item by its index
      ## the differences between insert() and append() method
      ## using a pop method to exclud and use this value excluded.
+     
+# BIOINFORMATIC     
+    
+   # Counting DNA Nucleotides
+    ## In this exercise we need to count it of the DNA molecules:  adenine (A), cytosine (C), guanine (G), and thymine (T).
+    ## Here I did a dictionary just to see how it works e tran I used count() Method to count it of the letters we have in this string
+    
+   # Transcribing DNA into RNA
+    ## Here we use replace method() to change Uracil into Thymine molecules into the string
