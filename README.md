@@ -9,7 +9,7 @@
 # 1 INTRODUCTORY EXERCISES FROM ROSALIND SITE 
 
 ## 1.1 In problem 3 
->The Challenge was to return The slice of a string from indices a through b and c through d (with space in between), inclusively. In other words, we should include elements s[b] and s[d] in our slice.
+>The Challenge is to return The slice of a string from indices a through b and c through d (with space in between), inclusively. In other words, we should include elements s[b] and s[d] in our slice.
 
 ## 1.2 In problem 4 
 >Challenge: 
@@ -18,26 +18,26 @@
 ## 1.3 In problem 5 
 >This is a really good challenge. We have a doc.txt and we have to return just the even-numbers line of it. 
 >>for this challenge you can:  
->>>Do a loop or 
->>>you can also IMPORT SYS and IMPORT INTERTOOLS 
+>>>* Do a loop or 
+>>>* You can also IMPORT SYS and IMPORT INTERTOOLS 
             
 # 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
 
 >## 2.1 Example 1 - Sorting a List
->>Permanently with the sort () Method
->>sorted list with tuplas
->>print list as sorted but not permanantly
->>reverse sort with reverse=True
->>ignoring Capital letter with casefold
->>lambda function
+>>* Sort a list permanently with the sort () Method
+>>* Use sorted list with tuplas
+>>* Print list as sorted but not permanantly
+>>* Reverse sort with reverse=True
+>>* Ignoring Capital letter with casefold
+>>* Lambda function
     
 >## 2.2 Example 2 - The Big Dinner
->>print list
->>work with title() method
->>remove a item by its value
->>changing a item by its index
->>the differences between insert() and append() method
->>using a pop method to exclud and use this value excluded.
+>>* Print list
+>>* Work with title() method
+>>* Remove a item by its value
+>>* Changing a item by its index
+>>* The differences between insert() and append() method
+>>* Using a pop method to exclud and use this value excluded.
      
 # 3 BIOINFORMATIC     
     
@@ -46,4 +46,4 @@
 >>Here I did a dictionary just to see how it works e tran I used count() Method to count it of the letters we have in this string
     
 ## 3.2 Transcribing DNA into RNA
->>Here we use replace method() to change Uracil into Thymine molecules into the string
+>>Here we use REPLACE method() to change Uracil into Thymine molecules into the string
