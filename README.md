@@ -3,7 +3,7 @@
 
 
 # ProjectsinPython
-#Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
+>## Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
 
 
 # 1 INTRODUCTORY EXERCISES FROM ROSALIND SITE 
@@ -18,8 +18,8 @@
 ## 1.3 In problem 5 
 >This is a really good challenge. We have a doc.txt and we have to return just the even-numbers line of it. 
 >>for this challenge you can:  
->>>Do a loop or you can also you can 
->>>import sys and import intertools 
+>>>Do a loop or 
+>>>you can also IMPORT SYS and IMPORT INTERTOOLS 
             
 # 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
 
