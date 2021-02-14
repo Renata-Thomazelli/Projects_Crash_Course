@@ -20,24 +20,24 @@
 >This is a really good challenge. We have a doc.txt and we have to return just the even-numbers line of it. 
 >>for this challenge you can:  
 >>>* Do a __loop__ or 
->>>* You can also __import sys__ and __import intertools__ 
+>>>* You can also __`import sys`__ and __`import intertools`__ 
            
 # 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
 ***
 >## 2.1 Example 1 - Sorting a List
->>* Sort a list permanently with the __sort ()__ Method
+>>* Sort a list permanently with the __`sort ()`__ Method
 >>* Use sorted list with tuplas
 >>* Print list as sorted but not permanantly
->>* Reverse sort with __reverse=True__
->>* Ignoring Capital letter with __casefold__
->>* __lambda function__
+>>* Reverse sort with __`reverse=True`__
+>>* Ignoring Capital letter with __`casefold`__
+>>* __`lambda` function__
     
 >## 2.2 Example 2 - The Big Dinner
 >>* Print list
->>* Work with __title()__ method
+>>* Work with __`title()`__ method
 >>* Remove a item by its value
 >>* Changing a item by its index
->>* The differences between __insert()__ and __append() method__
+>>* The differences between __`insert()`__ and __`append()` method__
 >>* Using a pop method to exclud and use this value excluded.
    
 # 3 BIOINFORMATIC     
@@ -47,4 +47,4 @@
 >>Here I did a dictionary just to see how it works e tran I used count() Method to count it of the letters we have in this string
     
 ## 3.2 Transcribing DNA into RNA
->>Here we use REPLACE method() to change Uracil into Thymine molecules into the string
+>>Here we use __`replace()`__ method to change Uracil into Thymine molecules into the string
