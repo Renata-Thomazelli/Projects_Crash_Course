@@ -9,7 +9,7 @@
 # 1 INTRODUCTORY EXERCISES FROM ROSALIND SITE 
 
 ## 1.1 In problem 3 
-    #The Challenge was to return The slice of a string from indices a through b and c through d (with space in between), inclusively. In other words, we should include elements s[b] and s[d] in our slice.
+    >The Challenge was to return The slice of a string from indices a through b and c through d (with space in between), inclusively. In other words, we should include elements s[b] and s[d] in our slice.
 
 ## 1.2 In problem 4 
     #Challenge: 
