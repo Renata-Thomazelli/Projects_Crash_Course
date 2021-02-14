@@ -17,9 +17,9 @@
 
 ## 1.3 In problem 5 
 >This is a really good challenge. We have a doc.txt and we have to return just the even-numbers line of it. 
->for this challenge you can:  
->> do a loop or you can also you can 
->> import sys and import intertools 
+>>for this challenge you can:  
+>>>Do a loop or you can also you can 
+>>>import sys and import intertools 
             
 # 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
 
