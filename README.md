@@ -37,7 +37,7 @@
 >>* Work with __title()__ method
 >>* Remove a item by its value
 >>* Changing a item by its index
->>* The differences between __insert() and append() method__
+>>* The differences between __insert()__ and __append() method__
 >>* Using a pop method to exclud and use this value excluded.
    
 # 3 BIOINFORMATIC     
