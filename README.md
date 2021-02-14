@@ -3,7 +3,7 @@
 
 
 # ProjectsinPython
->### Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
+>### *Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.*
 
 
 # 1 INTRODUCTORY EXERCISES FROM ROSALIND SITE 
@@ -19,25 +19,25 @@
 ## 1.3 In problem 5 
 >This is a really good challenge. We have a doc.txt and we have to return just the even-numbers line of it. 
 >>for this challenge you can:  
->>>* Do a loop or 
->>>* You can also IMPORT SYS and IMPORT INTERTOOLS 
+>>>* Do a __loop__ or 
+>>>* You can also __import sys__ and __import intertools__ 
            
 # 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
 ***
 >## 2.1 Example 1 - Sorting a List
->>* Sort a list permanently with the sort () Method
+>>* Sort a list permanently with the __sort ()__ Method
 >>* Use sorted list with tuplas
 >>* Print list as sorted but not permanantly
->>* Reverse sort with reverse=True
->>* Ignoring Capital letter with casefold
->>* Lambda function
+>>* Reverse sort with __reverse=True__
+>>* Ignoring Capital letter with __casefold__
+>>* __lambda function__
     
 >## 2.2 Example 2 - The Big Dinner
 >>* Print list
->>* Work with title() method
+>>* Work with __title()__ method
 >>* Remove a item by its value
 >>* Changing a item by its index
->>* The differences between insert() and append() method
+>>* The differences between __insert() and append() method__
 >>* Using a pop method to exclud and use this value excluded.
    
 # 3 BIOINFORMATIC     
