@@ -3,9 +3,9 @@
 
 
 # ProjectsinPython
->## Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
+>### Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
 
-
+---
 # 1 INTRODUCTORY EXERCISES FROM ROSALIND SITE 
 
 ## 1.1 In problem 3 
@@ -20,7 +20,7 @@
 >>for this challenge you can:  
 >>>* Do a loop or 
 >>>* You can also IMPORT SYS and IMPORT INTERTOOLS 
-            
+---            
 # 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
 
 >## 2.1 Example 1 - Sorting a List
@@ -38,7 +38,7 @@
 >>* Changing a item by its index
 >>* The differences between insert() and append() method
 >>* Using a pop method to exclud and use this value excluded.
-     
+---     
 # 3 BIOINFORMATIC     
     
 >## 3.1 Counting DNA Nucleotides
