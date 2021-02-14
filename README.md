@@ -5,8 +5,9 @@
 # ProjectsinPython
 >### Here you can find some projects did with Python. Some of them were proposed by Data Science Academy, other by Rosalind site and others I did on my own. I hope you enjoy it.
 
----
+
 # 1 INTRODUCTORY EXERCISES FROM ROSALIND SITE 
+***
 
 ## 1.1 In problem 3 
 >The Challenge is to return The slice of a string from indices a through b and c through d (with space in between), inclusively. In other words, we should include elements s[b] and s[d] in our slice.
@@ -20,9 +21,9 @@
 >>for this challenge you can:  
 >>>* Do a loop or 
 >>>* You can also IMPORT SYS and IMPORT INTERTOOLS 
----            
+           
 # 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
-
+***
 >## 2.1 Example 1 - Sorting a List
 >>* Sort a list permanently with the sort () Method
 >>* Use sorted list with tuplas
@@ -38,9 +39,9 @@
 >>* Changing a item by its index
 >>* The differences between insert() and append() method
 >>* Using a pop method to exclud and use this value excluded.
----     
+   
 # 3 BIOINFORMATIC     
-    
+***   
 >## 3.1 Counting DNA Nucleotides
 >>In this exercise we need to count it of the DNA molecules:  adenine (A), cytosine (C), guanine (G), and thymine (T).
 >>Here I did a dictionary just to see how it works e tran I used count() Method to count it of the letters we have in this string
