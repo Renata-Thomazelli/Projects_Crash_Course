@@ -22,7 +22,7 @@
 >>>* Do a __loop__ or 
 >>>* You can also __`import sys`__ and __`import intertools`__ 
            
-# 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES
+# <font color="blue"> 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES<font>
 ***
 >## 2.1 Example 1 - Sorting a List
 >>* Sort a list permanently with the __`sort ()`__ Method
@@ -46,10 +46,10 @@
 >>In this exercise we need to count it of the DNA molecules:  adenine (A), cytosine (C), guanine (G), and thymine (T).
 >>Here I did a dictionary just to see how it works e tran I used count() Method to count it of the letters we have in this string.
     
-## 3.2 Transcribing DNA into RNA
+>## 3.2 Transcribing DNA into RNA
 >>Here we use __`replace()`__ method to change Uracil into Thymine molecules into the string.
 
-## 3.3 Complement a Strand of DNA
+>## 3.3 Complement a Strand of DNA
 >>Here we worked with __dictinary__ to created a key and value for it replace that is necessary to do.
 >>For to do this replacement we used a __loop__ __`for`__ __`in`__.
 >>In the and we print this new string in the __reverse order__.
