@@ -24,7 +24,7 @@
            
 # <font color="blue"> 2 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES<font>
 ***
->## 2.1 Example 1 - Sorting a List
+>## 2.1 Ex1 - Sorting a List
 >>* Sort a list permanently with the __`sort ()`__ Method
 >>* Use sorted list with tuplas
 >>* Print list as sorted but not permanantly
@@ -32,13 +32,25 @@
 >>* Ignoring Capital letter with __`casefold`__
 >>* __`lambda` function__
     
->## 2.2 Example 2 - The Big Dinner
+>## 2.2 Ex2 - The Big Dinner
 >>* Print list
 >>* Work with __`title()`__ method
 >>* Remove a item by its value
 >>* Changing a item by its index
 >>* The differences between __`insert()`__ and __`append()` method__
 >>* Using a pop method to exclud and use this value excluded.
+
+>## 2.3 Ex3 - if Statements
+ >* In this exercise you will see:
+ >>   * how so solve a problem providing that it new user be unique
+ >>   * considering case sensitive, even when the name of the new user just change the case letter to upper or lower
+ >>   * for that we use:
+ >>> * __`for in`__
+ >>> * __`map`__
+ >>> * __`str.lower`__
+ >>> * __`title`__
+ >>> * __`lambda`__ othe way to do it
+
    
 # 3 BIOINFORMATIC     
 ***   
