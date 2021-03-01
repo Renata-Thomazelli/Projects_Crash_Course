@@ -50,6 +50,16 @@
  >>> * __`str.lower`__
  >>> * __`title`__
  >>> * __`lambda`__ othe way to do it
+ 
+ >## 2.4 Ex6 - Working with dictionaries, nesting and loops.
+>Here you will see:
+>>How to access and modify individual elements in a dictionary.
+>>How to loop through a dictionary’s:
+>>>key-value pairs, its keys, and its values.
+
+>>Nesting multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside a dictionary.
+
+>>And also how to access each information of the list and dictionaries nested in each other through a loop.
 
    
 # 3 BIOINFORMATIC     
