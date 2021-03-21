@@ -83,6 +83,20 @@
 >>>>>__`continue`__  
 >>>>>__`break`__  
 
+>## 1.6 Ex8 - Functions
+>## Here you'll see:
+
+* ####  How to write functions with arguments
+* ####  How to use positional and key words arguments
+* ####  How to accept the arbitrary numbers of arguments
+
+## In the exercises you also can see:
+
+* ####  How to use function with:
+>>>> __`list`__  
+>>>> __`dicitionaries`__ ,   
+>>>> __`if`__ statements,   
+>>>> __`while loops`__  
 
 
    
