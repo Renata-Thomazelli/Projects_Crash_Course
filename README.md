@@ -9,12 +9,8 @@ Here you can see my progress step by step.
 Once again thank you Eric Matthes.  
 
 
-# ProjectsinPython
->### *Here you can find some projects did with Python. 
-
-
            
-# <font color="blue"> 1 PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES<font>
+# <font color="blue"> PYTHON CRASH COURSE BOOK_EXERCISES_AND_EXAMPLES<font>
 ***
 >## 1.1 Ex1 - Sorting a List
 * #####  Sort a list permanently with the __`sort ()`__ Method
